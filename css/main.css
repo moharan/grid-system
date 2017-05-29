@@ -1,0 +1,9 @@
+/* estilo paginas */
+body {
+	background-color: purple;
+	color: white; 
+}
+
+.caja {
+	background-color: gray;
+}
